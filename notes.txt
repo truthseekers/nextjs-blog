@@ -2,3 +2,8 @@
 https://nextjs.org/learn/basics/data-fetching/getstaticprops-details - for fetching data from an another source?
 
 https://nextjs.org/learn/basics/data-fetching/request-time
+
+https://nextjs.org/learn/basics/dynamic-routes/dynamic-routes-details
+
+
+** This page: https://nextjs.org/learn/basics/api-routes **
