@@ -1,0 +1,3 @@
+https://nextjs.org/learn/basics/data-fetching/two-forms
+    - If html is statically generated at build time, and reusing html for each request, that means it's pre-rendering incorrect data?
+    - Say I've got 5 links on the page that are conditionally rendered, or even use a loop or whatever to render the links. Those links won't be visible to crawlers and other seo things?

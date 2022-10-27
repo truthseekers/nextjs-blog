@@ -1,0 +1,4 @@
+
+https://nextjs.org/learn/basics/data-fetching/getstaticprops-details - for fetching data from an another source?
+
+https://nextjs.org/learn/basics/data-fetching/request-time
